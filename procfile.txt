@@ -1,0 +1,2 @@
+web: streamlit run dashboard_app.py --server.address=0.0.0.0 --server.port=$PORT
+worker: python alerts_runner.py

@@ -1,0 +1,9 @@
+streamlit==1.40.0
+pandas==2.2.3
+python-dotenv==1.0.1
+requests==2.32.3
+binance-connector==3.10.0
+matplotlib==3.9.2
+
+# Si tu dashboard con IA ya usa OpenAI:
+openai==1.57.0

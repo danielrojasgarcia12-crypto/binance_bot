@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Config local / claves
+.env
+*.env
+
+# Reportes y estado local
+reports/
+state/
+
+# Streamlit
+.streamlit/secrets.toml
